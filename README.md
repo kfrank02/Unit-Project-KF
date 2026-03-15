@@ -2,6 +2,6 @@
 <html>
 
 <p>
-  Description of Project
+  My project shows why publishing matters to me by connecting the creative process to elements of nature. The ground symbolizes where the ideas come from, the sky represents the freedom of publishing, and the water reflects how sharing work can ripple outwards. 
 </p>
 

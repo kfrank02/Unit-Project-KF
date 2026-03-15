@@ -14,7 +14,7 @@
 </p>
 
 <p>
-  <img src="https://media.discordapp.net/attachments/1338616616958562354/1475295017042968581/IMG_2198.jpg?ex=69aec34d&is=69ad71cd&hm=461c17fdb7006656652f908e9787e426ecca37146cf27bf4fba9fe2d5aa0c7f1&=&format=webp&width=363&height=484" alt="Sky image" width="300">
+  <img src="plane.jpg">
 </p>
 
 <p>
